@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-yfinance==0.2.4.9
+yfinance==0.2.49
 datetime
 plotly
 plotly.express
